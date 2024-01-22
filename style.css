@@ -1,0 +1,136 @@
+
+.lom{
+    display: flex;
+    justify-content: space-between;
+margin-top: 10px;}
+
+
+
+
+    .serch>input{
+
+       font-size: medium;
+       border:none ;
+       outline: none;
+       width: 600px;
+       margin-left: 18px;
+       margin-top: 7px;
+          height: 20px;
+    }
+    .serch{
+        display: flex;
+        justify-content: space-between;
+        border-radius: 60px;
+        border: 2px solid black;
+        height: 40px;
+        width: 750px;
+    }
+      .lmk{
+        
+        background-color: rgb(255, 136, 0);
+        border-radius: 100px;
+        margin-right: 5px;
+        border: none;
+       
+        
+    }
+    
+    
+    .lmk:active{
+        border-radius: 0px;
+        border-bottom-right-radius: 50px;
+        border-top-right-radius: 50px;
+        margin-right: 1px;
+    }
+   
+      
+    .vcf{
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        margin-top: 5px;
+       margin-right: 20x;
+       padding-right: 30px;
+       padding-right: 5px;
+       padding-left: 5px;
+       transition: 1s;
+       border: 2px solid white;
+        border-radius: 50px;
+        width: 100px;
+    padding-top: 10px;
+    height: 30px;}
+    .vcf>a{
+        text-decoration: none;
+        font-size: medium;
+        color: black;
+      
+       
+       
+       
+        text-decoration: none;
+        color: black;
+        
+    }
+    
+    .vcg{
+        margin-left: 28px;
+        margin-top: 8px;
+        margin-right: 20px;
+    }
+    .pol{
+        display: flex;
+        margin-right: 20px;
+        margin-top: 10px;
+        justify-content: center;
+        text-decoration: none;
+        color: black;
+        right: 150px;
+        border: 1px solid white;
+        height: 20px;
+        width: 70px;
+        border-radius: 10px;
+        padding-left: 5px;
+        
+        transition: 1s;
+        margin-right: 30px;
+    }
+
+        
+
+    .vcn{
+        display: flex;
+        margin-right: 20px;
+        padding-right: 10px;
+        
+        border: 2px solid white;
+        height: 35px;
+        border-radius: 100px;
+        justify-content: center;
+        text-align: center;
+        padding-left: 10px;
+        padding-top: 10px;
+        width: 25px;
+        transition: 1s;
+        
+    }
+    .vcp{
+        margin-right: 20px;
+        padding-right: 10px;
+        
+        display: flex;
+        margin-right: 20px;
+        padding-right: 10px;
+        
+        border: 2px solid white;
+        height: 35px;
+        border-radius: 100px;
+        justify-content: center;
+        text-align: center;
+        padding-left: 8px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        padding-right: 8px;
+        width: 30px;
+        transition: 1s;
+    }
+    .
